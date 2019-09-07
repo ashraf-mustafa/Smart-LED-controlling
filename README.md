@@ -1,2 +1,4 @@
 # Smart-LED-controlling
-Here is a project aiming to convert a Raspberry Pi to a smart device that can be used as a google assistant and controls LED s by voice commands and remote web server
+In this project we will control some LEDs connected to a raspberry Pi using:
+1- Goole assistant SDK via voice commands.
+2- Web broswer using Flask microframework.
